@@ -2,7 +2,7 @@
 	<section id="spoon">		
 		<h2>The First Page</h2>
 		
-		<a href="http://blog.spoongraphics.co.uk" id="spoon-photo"><img src="images/spoon-photo.png" alt="Visit Blog.SpoonGraphics" /></a>
+		<a href="http://blog.spoongraphics.co.uk" id="spoon-photo">Visit</a>
 		
 		<p>Resume Stuff</p>
 	
