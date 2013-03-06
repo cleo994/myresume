@@ -9,14 +9,14 @@ section {
 }
 
 #intro { 
-	background: #c3c2c1 url(img/urkel.jpg) left no-repeat;
+	background: #c3c2c1 url(img/name-tag.jpg) left no-repeat;
 	background-size: cover;
 }
 
 #intro h1 {
 		width: 858px;
 		height: 161px;
-		background: url(img/urkel.jpg);
+		background: url(img/name-tag.jpg);
 		background-size: cover;
 		text-indent: -9999px;
 		position: relative; top: 145px; left: 0;
@@ -32,7 +32,7 @@ section {
 }
 
 #gaming {
-	background: #28323c url(img/urkel.jpg);
+	background: #28323c url(img/name-tag.jpg);
 	background-size: cover; 
 }
 

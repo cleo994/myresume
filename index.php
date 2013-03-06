@@ -8,7 +8,6 @@
 
 	</head>
 	<body>
-
 		<ul class="curtains">
 			<li>
 				<section id="intro">
@@ -23,7 +22,7 @@
 	
 	</body>
 	<body>
-		<ul>
+		<ul class="curtains">
 			<li>
 				<section id="spoon">		
 					<h2>The First Page</h2>
@@ -38,22 +37,22 @@
 		</ul>
 	</body>
 	<body>
-		<section id="cs">
-		<ul>
+		<ul class="curtains">
 			<li>
-				<h2>The Second Page</h2>
+				<section id="cs">
+					<h2>The Second Page</h2>
 		
-				<p>More resume stuff!</p>
+					<p>More resume stuff!</p>
 			</li>
 		</ul>
 	
 		<ul>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-1.jpg" alt="" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-2.jpg" alt="" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-3.jpg" alt="" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-4.jpg" alt="" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-5.jpg" alt="" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-6.jpg" alt="" /></a></li>
+			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-1.jpg" alt="Video1" /></a></li>
+			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-2.jpg" alt="Video2" /></a></li>
+			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-3.jpg" alt="Video3" /></a></li>
+			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-4.jpg" alt="Video4" /></a></li>
+			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-5.jpg" alt="Video5" /></a></li>
+			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-6.jpg" alt="Video6" /></a></li>
 		</ul>
 		</section>
 	</body>
