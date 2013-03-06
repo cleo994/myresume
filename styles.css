@@ -1,6 +1,6 @@
 body {
 	font: 18px/30px Sans-serif;
-	color: #fff;
+	color: #000;
 }
 
 section {
@@ -16,7 +16,6 @@ section {
 #intro h1 {
 		width: 858px;
 		height: 161px;
-		background: url(img/name-tag.jpg);
 		background-size: cover;
 		text-indent: -9999px;
 		position: relative; top: 145px; left: 0;
@@ -31,22 +30,27 @@ section {
 		font-weight: bold;
 }
 
-#gaming {
-	background: #28323c url(img/name-tag.jpg);
+#contact {
+	background: #c3c2c1 url(img/envelope.jpg) left no-repeat;
+	background-size:cover;
+}
+
+#hobbies {
+	background: #28323c url(img/syfy.jpg);
 	background-size: cover; 
 }
 
-#gaming h2 {
+#hobbies h2 {
 		width: 740px;
 		height: 324px;
 		position: relative; top: 87px; left: 90px;
 }
 	
-#gaming p {
+#hobbies p {
 		position: relative; top: 110px; left: 100px;
 }
 	
-#gaming .btn a {
+#hobbies .btn a {
 		display: block;
 		width: 728px;
 		height: 176px;

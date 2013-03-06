@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<link rel="stylesheet" type="text/css" href="styles.css" />
 		<meta charset="utf-8" />
 		<title>My Sites</title>
 
@@ -24,12 +25,14 @@
 	<body>
 		<ul class="curtains">
 			<li>
-				<section id="spoon">		
-					<h2>The First Page</h2>
+				<section id="contact">		
+					<h2>Where to contact me.</h2>
 					
-					<a href="http://blog.spoongraphics.co.uk" id="spoon-photo">Visit</a>
+					<p>My address is Blah Blah Blah.</p>
 					
-					<p>Resume Stuff</p>
+					<p>My phone number is Asdfasdfas.</p>
+					
+					<p>My E-mail address is fatfastpeople@fighting.org</p>
 				
 					<p class="btn"><a href="http://blog.spoongraphics.co.uk">Visit Blog.SpoonGraphics</a></p>
 				</section>
@@ -39,7 +42,7 @@
 	<body>
 		<ul class="curtains">
 			<li>
-				<section id="cs">
+				<section id="hobbies">
 					<h2>The Second Page</h2>
 		
 					<p>More resume stuff!</p>
