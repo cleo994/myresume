@@ -32,9 +32,7 @@
 					
 					<p>My phone number is Asdfasdfas.</p>
 					
-					<p>My E-mail address is fatfastpeople@fighting.org</p>
-				
-					<p class="btn"><a href="http://blog.spoongraphics.co.uk">Visit Blog.SpoonGraphics</a></p>
+					<p>My E-mail address is fatpeople@running.org</p>
 				</section>
 			</li>
 		</ul>
@@ -42,21 +40,29 @@
 	<body>
 		<ul class="curtains">
 			<li>
-				<section id="hobbies">
-					<h2>The Second Page</h2>
+				<section id="jobs">
+					<h2>Previous Jobs</h2>
 		
-					<p>More resume stuff!</p>
+					<p>Lawn mowing.</p>
+					
+					<p>Fish care.</p>
+				</section>
 			</li>
 		</ul>
 	
-		<ul>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-1.jpg" alt="Video1" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-2.jpg" alt="Video2" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-3.jpg" alt="Video3" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-4.jpg" alt="Video4" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-5.jpg" alt="Video5" /></a></li>
-			<li><a href="http://www.chrisspooner.com"><img src="images/cs-vid-6.jpg" alt="Video6" /></a></li>
+	</body>
+	<body>
+		<ul class="curtains">
+			<li>
+				<section id="references">
+					<h2>References</h2>
+					
+					<p>Justin Short</p>
+					
+					<p>Pat Flott</p>
+				
+				</section>
+			</li>
 		</ul>
-		</section>
 	</body>
 </html>

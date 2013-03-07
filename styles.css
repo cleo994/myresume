@@ -15,9 +15,9 @@ section {
 
 #intro h1 {
 		width: 858px;
-		height: 161px;
+		margin-top:260px;
 		background-size: cover;
-		text-indent: -9999px;
+		text-indent: 352px;
 		position: relative; top: 145px; left: 0;
 }
 
@@ -35,24 +35,48 @@ section {
 	background-size:cover;
 }
 
-#hobbies {
-	background: #28323c url(img/syfy.jpg);
+#contact h2 {
+		width: 858px;
+		margin-top:140px;
+		background-size: cover;
+		text-indent: 352px;
+		position: relative; top: 145px; left: 0;
+}
+
+
+#contact p {
+	position: relative; top: 200px; left: 350px;
+	width: 508px;
+	margin: 0 0 30px 0;
+}
+
+#jobs {
+	background: #28323c url(img/lawn-mower.jpg);
 	background-size: cover; 
 }
 
-#hobbies h2 {
+#jobs h2 {
 		width: 740px;
-		height: 324px;
 		position: relative; top: 87px; left: 90px;
 }
 	
-#hobbies p {
+#jobs p {
 		position: relative; top: 110px; left: 100px;
 }
-	
-#hobbies .btn a {
-		display: block;
-		width: 728px;
-		height: 176px;
-		position: relative; top: 70px;
+
+#references {
+	background: #c3c2c1 url(img/telephone.jpg) left no-repeat;
+	background-size:cover;
+}
+
+#references h2 {
+	width: 740px;
+	postition: relative;
+	top: 87px;
+	left: 90px;
+}
+
+#references p {
+	width: 740px;
+	position:relative;
 }
