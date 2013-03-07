@@ -10,8 +10,6 @@
 	<script src="js/jquery.scrollorama.js"></script>
 	<script src="js/scripts.js"></script>
 
-		<link href="style.css" rel="stylesheet" />
-
 	</head>
 	<body>
 		<ul class="curtains">
