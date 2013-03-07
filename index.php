@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<meta charset="utf-8" />
+	<title>My Sites</title>
 	<link rel="stylesheet" type="text/css" href="styles.css" />
-		<meta charset="utf-8" />
-		<title>My Sites</title>
+	<link href="js/curtain.css" rel="stylesheet" />
+	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="js/curtain.js"></script>
+	<script src="js/jquery.scrollorama.js"></script>
+	<script src="js/scripts.js"></script>
 
 		<link href="style.css" rel="stylesheet" />
 
