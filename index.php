@@ -12,6 +12,7 @@
 
 	</head>
 	<body>
+	<div id="scroll-wrap"></div>
 		<ul class="curtains">
 			<li>
 				<section id="intro">
@@ -22,11 +23,6 @@
 					<p>Here you can find my resume that I have created for your viewing pleasure.</p>
 				</section>
 			</li>
-		</ul>
-	
-	</body>
-	<body>
-		<ul class="curtains">
 			<li>
 				<section id="contact">		
 					<h2>Where to contact me.</h2>
@@ -38,10 +34,6 @@
 					<p>My E-mail address is fatpeople@running.org</p>
 				</section>
 			</li>
-		</ul>
-	</body>
-	<body>
-		<ul class="curtains">
 			<li>
 				<section id="jobs">
 					<h2>Previous Jobs</h2>
@@ -49,13 +41,10 @@
 					<p>Lawn mowing.</p>
 					
 					<p>Fish care.</p>
+					
+					<p>Dish washing.</p>
 				</section>
 			</li>
-		</ul>
-	
-	</body>
-	<body>
-		<ul class="curtains">
 			<li>
 				<section id="references">
 					<h2>References</h2>
@@ -63,6 +52,8 @@
 					<p>Justin Short</p>
 					
 					<p>Pat Flott</p>
+					
+					<p>Terry Diggins</p>
 				
 				</section>
 			</li>
