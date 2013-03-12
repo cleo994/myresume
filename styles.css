@@ -9,7 +9,7 @@ section {
 }
 
 #intro { 
-	background: #c3c2c1 url(img/name-tag.jpg) left no-repeat;
+	background: #c3c2c1 url(img/hd-name-tag.jpg) left no-repeat;
 	background-size: cover;
 }
 
@@ -31,33 +31,35 @@ section {
 }
 
 #contact {
-	background: #c3c2c1 url(img/envelope.jpg) left no-repeat;
+	background: #c3c2c1 url(img/envelope1.jpg) left no-repeat;
 	background-size:cover;
 }
 
 #contact h2 {
 		width: 858px;
-		margin-top:140px;
+		margin-top:250px;
 		background-size: cover;
-		text-indent: 352px;
+		text-indent: 152px;
 		position: relative; top: 145px; left: 0;
 }
 
 
 #contact p {
-	position: relative; top: 200px; left: 350px;
+	position: relative;
+	top: 200px;
+	left: 152px;
 	width: 508px;
 	margin: 0 0 30px 0;
 }
 
 #jobs {
-	background: #28323c url(img/lawn-mower.jpg);
+	background: #28323c url(img/lawn-mower2.jpg);
 	background-size: cover; 
 }
 
 #jobs h2 {
 		width: 740px;
-		margin-top:100px;
+		margin-top:150px;
 		margin-bottom:10px;
 		text-indent:98px;
 		top: 87px;
@@ -77,6 +79,8 @@ section {
 
 #references h2 {
 	width: 740px;
+	margin-top:125px;
+	text-indent:98px;
 	postition: relative;
 	top: 87px;
 	left: 90px;
@@ -84,5 +88,6 @@ section {
 
 #references p {
 	width: 740px;
+	text-indent:98px;
 	position:relative;
 }

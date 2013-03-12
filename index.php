@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<meta charset="utf-8" />
-	<title>My Sites</title>
-	<link rel="stylesheet" type="text/css" href="styles.css" />
-	<link href="js/curtain.css" rel="stylesheet" />
-	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
-	<script src="js/curtain.js"></script>
-	<script src="js/jquery.scrollorama.js"></script>
-	<script src="js/scripts.js"></script>
+		<meta charset="utf-8" />
+		<title>My Sites</title>
+		<link rel="stylesheet" type="text/css" href="styles.css" />
+		<link href="js/curtain.css" rel="stylesheet" />
+		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+		<script src="js/curtain.js"></script>
+		<script src="js/jquery.scrollorama.js"></script>
+		<script src="js/scripts.js"></script>
 
 	</head>
 	<body>
@@ -31,7 +31,7 @@
 					
 					<p>My phone number is Asdfasdfas.</p>
 					
-					<p>My E-mail address is fatpeople@running.org</p>
+					<p>My E-mail address is asdfsadf@asdfsadf.org</p>
 				</section>
 			</li>
 			<li>
