@@ -42,7 +42,9 @@
 					
 					<p>Fish care.</p>
 					
-					<p>Dish washing.</p>
+					<p>Dish Washing.</p>
+					
+					<p>Baby Sitting.</p>
 				</section>
 			</li>
 			<li>
